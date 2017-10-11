@@ -1,12 +1,12 @@
 {
   "aspectWidth": 4,
   "aspectHeight": 3,
-  "enableKeyboardZoom": true,
-  "enableKeyboardRotation": true,
+  "enableKeyboardZoom": false,
+  "enableKeyboardRotation": false,
   "enableKeyboardNavigation": true,
-  "enableMouseTranslation": true,
-  "enableMouseZoom": true,
-  "enableMouseRotation": true,
+  "enableMouseTranslation": false,
+  "enableMouseZoom": false,
+  "enableMouseRotation": false,
   "enableMouseNavigation": true,
   "frames": [
     {
@@ -98,9 +98,9 @@
       "cameraStates": {
         "Page-1": {
           "cx": 1644.952266835279,
-          "cy": 545.2259465682278,
+          "cy": 545.3118840682278,
           "width": 796.8583227854779,
-          "height": 644.720977817507,
+          "height": 644.8109347001382,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -125,10 +125,10 @@
       },
       "cameraOffsets": {
         "Page-1": {
-          "deltaX": -11.282108164720967,
-          "deltaY": -0.688115931772245,
-          "widthFactor": 1.0960912280405473,
-          "heightFactor": 5.757240488394091,
+          "deltaX": -11.258670664720967,
+          "deltaY": -0.43811593177224495,
+          "widthFactor": 1.096161905604956,
+          "heightFactor": 5.7364331138183,
           "deltaAngle": 0
         }
       }
@@ -849,10 +849,10 @@
       },
       "cameraStates": {
         "Page-1": {
-          "cx": 3817.197048008705,
-          "cy": 2655.24448256853,
-          "width": 724.3612198620617,
-          "height": 542.5436445954799,
+          "cx": 2644.4318754733135,
+          "cy": 2668.7510348583496,
+          "width": 880.465589999966,
+          "height": 659.465190903589,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -877,10 +877,10 @@
       },
       "cameraOffsets": {
         "Page-1": {
-          "deltaX": 1124.1970480087052,
-          "deltaY": -42.2555174314698,
-          "widthFactor": 1.4545406021326541,
-          "heightFactor": 1.4783205574808718,
+          "deltaX": -48.56812452668646,
+          "deltaY": -28.748965141650388,
+          "widthFactor": 1.768003192771016,
+          "heightFactor": 1.796907877121496,
           "deltaAngle": 0
         }
       }
@@ -896,8 +896,8 @@
       "layerProperties": {
         "Page-1": {
           "link": false,
-          "referenceElementId": "16804236_10154523319973981_1310737729396080582_o",
-          "outlineElementId": "16804236_10154523319973981_1310737729396080582_o",
+          "referenceElementId": "icon-personal-website@256",
+          "outlineElementId": "icon-personal-website@256",
           "outlineElementAuto": true,
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -915,10 +915,10 @@
       },
       "cameraStates": {
         "Page-1": {
-          "cx": 3817.1970480087048,
-          "cy": 2655.24448256853,
-          "width": 724.3612198620636,
-          "height": 542.5436445954814,
+          "cx": 1660.669187897026,
+          "cy": 3721.8072423657877,
+          "width": 838.5386571428254,
+          "height": 628.0620865748472,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -943,10 +943,10 @@
       },
       "cameraOffsets": {
         "Page-1": {
-          "deltaX": 2.197048008704769,
-          "deltaY": -31.755517431469798,
-          "widthFactor": 4.311673927750379,
-          "heightFactor": 3.2294264559254846,
+          "deltaX": 73.16918789702595,
+          "deltaY": -141.69275763421228,
+          "widthFactor": 5.273828032344814,
+          "heightFactor": 3.950076016194007,
           "deltaAngle": 0
         }
       }
@@ -954,25 +954,10 @@
   ],
   "elementsToHide": [],
   "selectedFrames": [
-    "2",
-    "frame7493",
-    "frame9834",
-    "frame1309",
-    "frame2697",
-    "frame5472",
-    "frame6725",
-    "frame5505",
-    "frame9079",
-    "frame6814",
-    "frame9316",
-    "frame8383",
-    "frame4129",
-    "frame1448",
     "frame6176"
   ],
   "selectedLayers": [
-    "Page-1",
-    "__sozi_auto__"
+    "Page-1"
   ],
   "editableLayers": [
     "Page-1"
